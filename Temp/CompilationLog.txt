@@ -1,0 +1,4 @@
+# Starting compiling Assembly-CSharp.dll
+C:\Users\Alain\Desktop\ISEN M1\3D et environnement virtuel\2020.2.1f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1d390aacfa3a97b4aa0f4133ad9de9ba
+# Starting compiling Assembly-CSharp-Editor.dll
+C:\Users\Alain\Desktop\ISEN M1\3D et environnement virtuel\2020.2.1f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9220932f4b470b94fbac0847af695fbe
